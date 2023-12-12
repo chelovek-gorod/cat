@@ -1,0 +1,129 @@
+{"frames": {
+
+"02_глаз_справа.png":
+{
+	"frame": {"x":1108,"y":1849,"w":146,"h":204},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":146,"h":204},
+	"sourceSize": {"w":146,"h":204},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"04_усы.png":
+{
+	"frame": {"x":1,"y":1,"w":930,"h":1086},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":930,"h":1086},
+	"sourceSize": {"w":930,"h":1086},
+	"anchor": {"x":0.5,"y":0.599448}
+},
+"05_голова.png":
+{
+	"frame": {"x":1,"y":1089,"w":927,"h":753},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":927,"h":753},
+	"sourceSize": {"w":927,"h":753},
+	"anchor": {"x":0.549083,"y":0.799469}
+},
+"06_ухо_справа.png":
+{
+	"frame": {"x":1250,"y":518,"w":436,"h":709},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":436,"h":709},
+	"sourceSize": {"w":436,"h":709},
+	"anchor": {"x":0.513761,"y":0.569817}
+},
+"07_лапа_слева_когти.png":
+{
+	"frame": {"x":1734,"y":956,"w":243,"h":391},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":243,"h":391},
+	"sourceSize": {"w":243,"h":391},
+	"anchor": {"x":0.399177,"y":0.199488}
+},
+"08_лапа_слева_плечо.png":
+{
+	"frame": {"x":756,"y":1849,"w":166,"h":350},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":166,"h":350},
+	"sourceSize": {"w":166,"h":350},
+	"anchor": {"x":0.5,"y":0.26}
+},
+"09_бант.png":
+{
+	"frame": {"x":1734,"y":1,"w":515,"h":274},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":515,"h":274},
+	"sourceSize": {"w":515,"h":274},
+	"anchor": {"x":0.6,"y":0.5}
+},
+"10_зад.png":
+{
+	"frame": {"x":756,"y":1089,"w":473,"h":758},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":473,"h":758},
+	"sourceSize": {"w":473,"h":758},
+	"anchor": {"x":0.792812,"y":0.150396}
+},
+"11_грудь.png":
+{
+	"frame": {"x":1231,"y":1034,"w":501,"h":638},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":501,"h":638},
+	"sourceSize": {"w":501,"h":638},
+	"anchor": {"x":0.461078,"y":0.65047}
+},
+"12_лапа_справа.png":
+{
+	"frame": {"x":1314,"y":1674,"w":277,"h":699},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":699},
+	"sourceSize": {"w":277,"h":699},
+	"anchor": {"x":0.584838,"y":0.128755}
+},
+"13_хвост.png":
+{
+	"frame": {"x":1250,"y":1,"w":457,"h":390},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":457,"h":390},
+	"sourceSize": {"w":457,"h":390},
+	"anchor": {"x":0.956236,"y":0.571795}
+},
+"14_лапа_задняя_справа.png":
+{
+	"frame": {"x":1734,"y":1349,"w":296,"h":307},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":296,"h":307},
+	"sourceSize": {"w":296,"h":307},
+	"anchor": {"x":0.260135,"y":0.0879479}
+},
+"15_тень.png":
+{
+	"frame": {"x":933,"y":1,"w":1031,"h":315},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1031,"h":315},
+	"sourceSize": {"w":1031,"h":315},
+	"anchor": {"x":0.500485,"y":0.498413}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cat-0.png",
+	"format": "RGBA8888",
+	"size": {"w":2042,"h":2017},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fdf826b96174c50f431ba7acdd098e19:82555017b118ec5d783c83f4ccf520e5:af6a478a8149b917f64ad6e7ca0d1a74$"
+}
+}

@@ -1,0 +1,39 @@
+{"frames": {
+
+"00_ошейник.png":
+{
+	"frame": {"x":663,"y":1,"w":314,"h":213},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":314,"h":213},
+	"sourceSize": {"w":314,"h":213},
+	"anchor": {"x":0.55414,"y":0.661972}
+},
+"01_глаз_слева.png":
+{
+	"frame": {"x":663,"y":216,"w":267,"h":219},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":267,"h":219},
+	"sourceSize": {"w":267,"h":219},
+	"anchor": {"x":0.498127,"y":0.502283}
+},
+"03_ухо_слева.png":
+{
+	"frame": {"x":1,"y":1,"w":418,"h":660},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":418,"h":660},
+	"sourceSize": {"w":418,"h":660},
+	"anchor": {"x":0.523923,"y":0.560606}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "cat-1.png",
+	"format": "RGBA8888",
+	"size": {"w":978,"h":436},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:fdf826b96174c50f431ba7acdd098e19:82555017b118ec5d783c83f4ccf520e5:af6a478a8149b917f64ad6e7ca0d1a74$"
+}
+}
